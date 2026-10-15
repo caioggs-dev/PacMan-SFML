@@ -1,7 +1,6 @@
 # Pac-Man em C++ (SFML)
 
 Recriação do clássico Pac-Man feita em C++ com a biblioteca SFML.
-Projeto educacional, sem fins lucrativos.
 
 ![Gameplay](assets/gameplay.gif)
 
